@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Key Promoter X" />
-    <notification groupId="Mybatis Plugin" shouldLog="false" />
-  </component>
-</application>
