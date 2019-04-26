@@ -1,0 +1,32 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Load the fully qualified class names of factory implementations of the given type from &quot;META-INF/spring.factories&quot;, using the given class loader." />
+      <item value="Authentication Manager Builder" />
+      <item value="authorities" />
+      <item value="pseudo" />
+      <item value="retrieve" />
+      <item value="This interface represents the abstract notion of a principal, which can be used to represent any entity, such as an individual, a corporation, and a login id" />
+      <item value="Modal" />
+      <item value="Returns the index within this string of the first occurrence of the specified substring." />
+      <item value="index Of" />
+      <item value="Category Service" />
+      <item value="category Service" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
