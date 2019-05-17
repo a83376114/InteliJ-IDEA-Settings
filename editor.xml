@@ -1,8 +1,8 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Noto Sans" />
-    <option name="LINE_SPACING" value="1.2" />
+    <option name="FONT_SIZE" value="17" />
+    <option name="FONT_FAMILY" value="Nirmala UI" />
+    <option name="LINE_SPACING" value="1.1" />
     <option name="SECONDARY_FONT_FAMILY" value="Droid Sans Mono" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="30" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
