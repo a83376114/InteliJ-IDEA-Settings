@@ -1,17 +1,24 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="monochromeIcons" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="accentColor" value="2979ff" />
-    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="customSidebarHeight" value="26" />
+    <option name="tabFontSize" value="11" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="tabsHeight" value="32" />
+    <option name="accentColor" value="00bcd4" />
+    <option name="selectedTheme" value="LIGHTER" />
     <option name="userId" value="375238c7:16ac9dde556:-8000" />
     <option name="version" value="3.9.4" />
   </component>
