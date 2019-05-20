@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cinema" />
+      <item value="sundial" />
+      <item value="pier" />
+      <item value="stupa" />
+      <item value="bell cote" />
+      <item value="crinoline" />
+      <item value="overskirt" />
+      <item value="hoopskirt" />
+      <item value="gown" />
+      <item value="plough" />
+      <item value="plow" />
       <item value="reduction" />
       <item value="assemble" />
       <item value="Returns a stream consisting of the results of applying the given function to the elements of this stream." />
@@ -40,8 +51,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="DUTCH" value="1" />
+        <entry key="CROATIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="HINDI" value="1" />
