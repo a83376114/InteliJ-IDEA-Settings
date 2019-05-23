@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalidates" />
+      <item value="declare" />
+      <item value="Clear" />
       <item value="invocation" />
       <item value="Invocation" />
       <item value="chiffonier" />
@@ -48,13 +51,10 @@
       <item value="Load the fully qualified class names of factory implementations of the given type from &quot;META-INF/spring.factories&quot;, using the given class loader." />
       <item value="Authentication Manager Builder" />
       <item value="authorities" />
-      <item value="pseudo" />
-      <item value="retrieve" />
-      <item value="This interface represents the abstract notion of a principal, which can be used to represent any entity, such as an individual, a corporation, and a login id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
+        <entry key="CHINESE" value="40" />
         <entry key="ENGLISH" value="40" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
