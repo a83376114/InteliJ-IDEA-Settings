@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transaction" />
+      <item value="row count" />
       <item value="mutable" />
       <item value="Invalidates" />
       <item value="declare" />
@@ -49,8 +51,6 @@
       <item value="confidence" />
       <item value="serial" />
       <item value="Signature" />
-      <item value="Load the fully qualified class names of factory implementations of the given type from &quot;META-INF/spring.factories&quot;, using the given class loader." />
-      <item value="Authentication Manager Builder" />
     </histories>
     <option name="languageScores">
       <map>
