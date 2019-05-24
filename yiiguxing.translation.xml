@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="composite" />
       <item value="transaction" />
       <item value="row count" />
       <item value="mutable" />
@@ -50,12 +51,11 @@
       <item value="O" />
       <item value="confidence" />
       <item value="serial" />
-      <item value="Signature" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="3" />
