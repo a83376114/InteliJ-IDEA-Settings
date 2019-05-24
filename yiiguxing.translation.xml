@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduction" />
+      <item value="delimiter" />
       <item value="composite" />
       <item value="transaction" />
       <item value="row count" />
@@ -28,7 +30,6 @@
       <item value="gown" />
       <item value="plough" />
       <item value="plow" />
-      <item value="reduction" />
       <item value="assemble" />
       <item value="Returns a stream consisting of the results of applying the given function to the elements of this stream." />
       <item value="consisting" />
@@ -50,11 +51,10 @@
       <item value="Pooled classifier wrapper to limit the number of simultaneous threads handling TF sessions." />
       <item value="O" />
       <item value="confidence" />
-      <item value="serial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
+        <entry key="CHINESE" value="41" />
         <entry key="ENGLISH" value="41" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
