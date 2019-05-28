@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="column" />
+      <item value="pertaining" />
       <item value="protector" />
       <item value="reduction" />
       <item value="delimiter" />
@@ -49,12 +51,10 @@
       <item value="sigint" />
       <item value="sitint" />
       <item value="delegate" />
-      <item value="Pooled classifier wrapper to limit the number of simultaneous threads handling TF sessions." />
-      <item value="O" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
+        <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="42" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
