@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assemble" />
       <item value="Get column of any type that extends from Number" />
       <item value="column" />
       <item value="pertaining" />
@@ -34,7 +35,6 @@
       <item value="gown" />
       <item value="plough" />
       <item value="plow" />
-      <item value="assemble" />
       <item value="Returns a stream consisting of the results of applying the given function to the elements of this stream." />
       <item value="consisting" />
       <item value="sequential" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="3" />
