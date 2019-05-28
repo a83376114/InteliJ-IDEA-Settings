@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get column of any type that extends from Number" />
       <item value="column" />
       <item value="pertaining" />
       <item value="protector" />
@@ -50,7 +51,6 @@
       <item value="shoji" />
       <item value="sigint" />
       <item value="sitint" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
