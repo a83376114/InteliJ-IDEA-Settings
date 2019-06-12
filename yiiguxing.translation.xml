@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BICUBIC" />
+      <item value="TYPE BICUBIC" />
+      <item value="Concatenates this transform with a scaling transformation. This is equivalent to calling concatenate(S), where S is an AffineTransform represented by the following matrix:" />
+      <item value="Affine Transform" />
+      <item value="Affine" />
       <item value="the X coordinate of the upper-left corner of the specified rectangular region" />
       <item value="Fault" />
       <item value="assemble" />
@@ -46,16 +51,11 @@
       <item value="Returns the abstract pathname of this abstract pathname's parent, or null if this pathname does not name a parent directory.&#10;The parent of an abstract pathname consists of the pathname's prefix, if any, and each name in the pathname's name sequence except for the last. If the name sequence is empty then the pathname does not name a parent directory." />
       <item value="Portfolio" />
       <item value="Repository" />
-      <item value="aggregate" />
-      <item value="Criteria" />
-      <item value="evaluates" />
-      <item value="The HTML &lt;hr&gt; element represents a thematic break between paragraph-level elements: for example, a change of scene in a story, or a shift of topic within a section" />
-      <item value="shoji" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="3" />
