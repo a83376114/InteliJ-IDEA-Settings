@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bolete" />
+      <item value="balloon" />
+      <item value="altar" />
+      <item value="salamandra" />
+      <item value="salamander" />
+      <item value="european" />
+      <item value="tench" />
+      <item value="threshold" />
       <item value="A statically typed multi-dimensional array whose elements are of a type described by T. Instances of a Tensor are not thread-safe. WARNING: Resources consumed by the Tensor object must be explicitly freed by invoking the close() method when the object is no longer needed. For example, using a try-with-resources block:" />
       <item value="A statically typed multi-dimensional array whose elements are of a type described by T.&#10;Instances of a Tensor are not thread-safe.&#10;WARNING: Resources consumed by the Tensor object must be explicitly freed by invoking the close() method when the object is no longer needed. For example, using a try-with-resources block:" />
       <item value="fetch" />
@@ -43,25 +51,17 @@
       <item value="pier" />
       <item value="bell cote" />
       <item value="crinoline" />
-      <item value="overskirt" />
-      <item value="hoopskirt" />
-      <item value="gown" />
-      <item value="plough" />
-      <item value="plow" />
-      <item value="Returns a stream consisting of the results of applying the given function to the elements of this stream." />
-      <item value="consisting" />
-      <item value="sequential" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="3" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
