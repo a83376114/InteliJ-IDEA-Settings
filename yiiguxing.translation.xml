@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the X coordinate of the upper-left corner of the specified rectangular region" />
       <item value="Fault" />
       <item value="assemble" />
       <item value="Get column of any type that extends from Number" />
@@ -50,11 +51,10 @@
       <item value="evaluates" />
       <item value="The HTML &lt;hr&gt; element represents a thematic break between paragraph-level elements: for example, a change of scene in a story, or a shift of topic within a section" />
       <item value="shoji" />
-      <item value="sigint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
+        <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="44" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
