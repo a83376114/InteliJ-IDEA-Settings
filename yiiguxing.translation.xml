@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fetch" />
+      <item value="Avoid evaluating operation and substitute t for the value it produces" />
+      <item value="feed" />
+      <item value="evaluate" />
       <item value="BICUBIC" />
       <item value="TYPE BICUBIC" />
       <item value="Concatenates this transform with a scaling transformation. This is equivalent to calling concatenate(S), where S is an AffineTransform represented by the following matrix:" />
@@ -47,15 +51,11 @@
       <item value="sequential" />
       <item value="shovel" />
       <item value="obsoleted" />
-      <item value="Cannot store file with relative path outside current directory" />
-      <item value="Returns the abstract pathname of this abstract pathname's parent, or null if this pathname does not name a parent directory.&#10;The parent of an abstract pathname consists of the pathname's prefix, if any, and each name in the pathname's name sequence except for the last. If the name sequence is empty then the pathname does not name a parent directory." />
-      <item value="Portfolio" />
-      <item value="Repository" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="3" />
