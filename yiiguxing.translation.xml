@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="face powder" />
+      <item value="barber" />
+      <item value="ambulance" />
       <item value="bolete" />
       <item value="balloon" />
       <item value="altar" />
@@ -48,14 +51,11 @@
       <item value="obelisk" />
       <item value="cinema" />
       <item value="sundial" />
-      <item value="pier" />
-      <item value="bell cote" />
-      <item value="crinoline" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="3" />
