@@ -1,4 +1,9 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="17" />
+    <option name="FONT_FAMILY" value="SansSerif" />
+    <option name="LINE_SPACING" value="1.1" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="30" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
