@@ -10,8 +10,12 @@
           <option name="url" value="http://git.sduept.cn/rooter/grid-fault-platform.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mpusher/mpush.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace\sduept" />
+    <option name="cloneParentDir" value="F:\Github" />
   </component>
 </application>
