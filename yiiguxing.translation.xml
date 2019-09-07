@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinct" />
       <item value="Suppress" />
       <item value="Transforms the source BufferedImage and stores the results in the destination BufferedImage. If the color models for the two images do not match, a color conversion into the destination color model is performed. If the destination image is null, a BufferedImage is created with the source ColorModel.&#10;The coordinates of the rectangle returned by getBounds2D(BufferedImage) are not necessarily the same as the coordinates of the BufferedImage returned by this method. If the upper-left corner coordinates of the rectangle are negative then this part of the rectangle is not drawn. If the upper-left corner coordinates of the rectangle are positive then the filtered image is drawn at that position in the destination BufferedImage.&#10;An IllegalArgumentException is thrown if the source is the same as the destination" />
       <item value="Concatenates this transform with a scaling transformation. This is equivalent to calling concatenate(S), where S is an AffineTransform represented by the following matrix:" />
@@ -50,12 +51,11 @@
       <item value="plinth" />
       <item value="footstall" />
       <item value="pedestal" />
-      <item value="obelisk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="3" />
