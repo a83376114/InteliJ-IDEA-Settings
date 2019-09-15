@@ -4,6 +4,9 @@
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
+  <component name="EditorSettings">
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="30" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
