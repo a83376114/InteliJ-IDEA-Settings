@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transient" />
       <item value="Chunky Milk" />
       <item value="Ryans Roast" />
       <item value="Tims Torture" />
@@ -50,12 +51,11 @@
       <item value="invocation" />
       <item value="Invocation" />
       <item value="chiffonier" />
-      <item value="commode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="3" />
